@@ -7,6 +7,11 @@ touch whitelist.csv
 
 # declare an array of urls
 urls=(
+    https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+    https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+    https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
+    https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+    
     https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
     https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt
