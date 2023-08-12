@@ -9,6 +9,7 @@ touch whitelist.csv
 urls=(
     https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
     https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+    https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
 
     https://raw.githubusercontent.com/im-sm/Pi-hole-Torrent-Blocklist/main/all-torrent-trackres.txt
     https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
